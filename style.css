@@ -1,0 +1,25 @@
+{
+    margin: 0;
+    padding: 0;
+}
+.cabecalho{
+    background-color: white;
+    padding: 1em;
+
+}
+.container{
+    display: flex;
+    align-items: center;
+}
+
+.container__titulo, .conatiner__imagem, .container__frase{
+    padding: 1em;
+}
+
+.container__titulo,.container__frase{
+    font-size: 30px;
+}
+body{
+    background-color: azure;
+}
+
